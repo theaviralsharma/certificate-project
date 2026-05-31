@@ -1,4 +1,4 @@
-const pdfURL = "NOC26MG61S65660429105018576.pdf";
+const pdfURL = "NPTEL25CS55S457501277.pdf";
 
 function openPDF(){
     window.location.href = pdfURL;
